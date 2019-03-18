@@ -25,6 +25,7 @@
 * [Kitura](https://www.kitura.io/) | [IBM-Swift/Kitura](https://github.com/IBM-Swift/Kitura)
 * [Perfect](https://www.perfect.org/) | [PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect) 
 * [Vapor](https://vapor.codes/) | [vapor/vapor](https://github.com/vapor/vapor)
+* [AWS Lambda Swift](https://github.com/tonisuter/aws-lambda-swift)
 
 ## Resources
 ### Books
