@@ -122,6 +122,10 @@
 
 ## Resources
 
+### Articles
+* [Vapor Review – Swift Choice For the Back End](https://learningswift.brightdigit.com/vapor-swift-backend-review/)
+* [Vapor – Deep Dive into Setup and Deployment for Heroku and Ubuntu](https://learningswift.brightdigit.com/vapor-heroku-ubuntu-setup-deploy/)
+
 ### Blogs
 * [IBM Swift Engineering Blog](https://developer.ibm.com/swift/blogs/)
 * [The Swift Web Developer](https://theswiftwebdeveloper.com/) - Web Development using Swift on the server
