@@ -125,6 +125,8 @@
 ### Articles
 * [Vapor Review – Swift Choice For the Back End](https://learningswift.brightdigit.com/vapor-swift-backend-review/)
 * [Vapor – Deep Dive into Setup and Deployment for Heroku and Ubuntu](https://learningswift.brightdigit.com/vapor-heroku-ubuntu-setup-deploy/)
+* [Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux](https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/)
+* [How to test controllers by mocking dependencies in Vapor 3 and Swift](https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/)
 
 ### Blogs
 * [IBM Swift Engineering Blog](https://developer.ibm.com/swift/blogs/)
