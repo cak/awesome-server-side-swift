@@ -5,7 +5,7 @@
 
 ## Contents
 
-- [Web Frameworks](#web-frameworks)
+- [Frameworks](#frameworks)
 - [Packages](#packages)
 	- [Authentication](#authentication)
 	- [Cloud](#cloud)
@@ -17,6 +17,7 @@
 	- [Templating](#templating)
 	- [WebSockets](#websockets)
 - [Resources](#resources)
+	- [Articles](#articles)
 	- [Blogs](#blogs)
 	- [Books](#books)
 	- [Communities](#communities)
@@ -32,10 +33,12 @@
 - [Powered by Server Side Swift](#powered-by-server-side-swift)
 - [Related Lists](#related-lists)
 
-## Web Frameworks
+## Frameworks
 * [Kitura](https://www.kitura.io/) ([IBM-Swift/Kitura](https://github.com/IBM-Swift/Kitura))
+* [MicroExpress](https://github.com/NozeIO/MicroExpress)
 * [Perfect](https://www.perfect.org/) ([PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect))
 * [Smoke](https://github.com/amzn/smoke-framework) 
+* [SwiftNIO](https://github.com/apple/swift-nio)
 * [Vapor](https://vapor.codes/) ([vapor/vapor](https://github.com/vapor/vapor))
 
 ## Packages
@@ -123,13 +126,14 @@
 ## Resources
 
 ### Articles
+* [How to test controllers by mocking dependencies in Vapor 3 and Swift](https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/)
 * [Vapor Review – Swift Choice For the Back End](https://learningswift.brightdigit.com/vapor-swift-backend-review/)
 * [Vapor – Deep Dive into Setup and Deployment for Heroku and Ubuntu](https://learningswift.brightdigit.com/vapor-heroku-ubuntu-setup-deploy/)
 * [Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux](https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/)
-* [How to test controllers by mocking dependencies in Vapor 3 and Swift](https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/)
 
 ### Blogs
 * [IBM Swift Engineering Blog](https://developer.ibm.com/swift/blogs/)
+* [The Always Right Institute](http://www.alwaysrightinstitute.com)
 * [The Swift Web Developer](https://theswiftwebdeveloper.com/) - Web Development using Swift on the server
 * [Vaporforums](http://www.vaporforums.io) - Vapor articles and tutorials
 
@@ -174,6 +178,7 @@
 * [Fatal Error: Episode 33](https://fatalerror.fm/episodes/2017/7/10/33-server-side-swift-in-practice) - Server-Side Swift in Practice
 * [Fireside Swift: EP 62](https://www.firesideswift.com/episodes/2018/12/13/ep-62-its-a-thing) - IT’S A THING (Server-Side Swift) with David Okun!
 * [iOS Dev Discussions: Origin Stories #8](https://anchor.fm/seanallen/episodes/Origin-Stories-8---David-Okun---Kitura-e3d7ns) - David Okun (Kitura)
+* [iPhreaks: Episode 209](https://devchat.tv/iphreaks/ips-209-vapor-bob-synder/) - Vapor with Bob Snyder
 * [raywenderlich.com Podcast: S08 E05](https://www.raywenderlich.com/8542-server-side-swift-with-vapor-podcast-s08-e05) - Server Side Swift with Vapor
 * [raywenderlich.com Podcast: S08 E12](https://www.raywenderlich.com/1502207-kitura-podcast-s08-e12) - Kitura
 * [Software Engineering Daily](https://softwareengineeringdaily.com/2017/04/19/swift-on-the-server-with-chris-bailey/) - Swift on the Server with Chris Bailey
@@ -194,6 +199,7 @@
 * [KituraStudio](https://www.kitura.io/guides/kiturastudio/) - An IDE for Server-side Swift from [SCADE](https://www.scade.io/)
 * [Perfect Assistant](https://www.perfect.org/en/perfect-assistant.html) - Perfect companion application
 * [SourceKit-LSP](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
+* [SwiftXcode](https://swiftxcode.github.io) - Swift Package Manager from within Xcode
 * [Vapor Toolbox](https://github.com/vapor/toolbox) - Vapor command-line tool
 
 ### Videos
