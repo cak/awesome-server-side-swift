@@ -23,6 +23,7 @@
 	- [Communities](#communities)
 	- [Conferences](#conferences)
 	- [Courses](#courses)
+	- [Documentation](#documentation)
 	- [Forums](#forums)
 	- [Jobs](#jobs)
 	- [Meetups](#meetups)
@@ -126,7 +127,13 @@
 ## Resources
 
 ### Articles
+* [A µTutorial on Swift NIO](http://www.alwaysrightinstitute.com/microexpress-nio/)
+* [Getting Started with SwiftNIO](https://medium.com/@fattywaffles/getting-started-with-swiftnio-40d35de15c0b)
 * [How to test controllers by mocking dependencies in Vapor 3 and Swift](https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/)
+* [Live Demo of Swift NIO In An Xcode Playground](https://david.okun.io/2018/08/02/live-demo-swift-nio/)
+* [Server-side Swift: Making Canopy](https://medium.com/@mxcl/server-side-swift-making-canopy-2ed586b7f5a9)
+* [SwiftNIO: A simple guide to async on the server](https://www.raywenderlich.com/1124580-swiftnio-a-simple-guide-to-async-on-the-server)
+* [TCP Server With the SwiftNIO Networking Framework](https://www.raywenderlich.com/76-tcp-server-with-the-swiftnio-networking-framework)
 * [Vapor Review – Swift Choice For the Back End](https://learningswift.brightdigit.com/vapor-swift-backend-review/)
 * [Vapor – Deep Dive into Setup and Deployment for Heroku and Ubuntu](https://learningswift.brightdigit.com/vapor-heroku-ubuntu-setup-deploy/)
 * [Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux](https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/)
@@ -161,6 +168,12 @@
 * [Treehouse - Quickstart for an API using Vapor 3](https://teamtreehouse.com/library/quickstart-for-an-api-using-vapor-3)
 * [Udemy - Introduction to Server-Side Swift](https://www.udemy.com/introduction-to-server-side-swift/)
 * [Udemy - Mastering Server Side Swift Using Vapor 3](https://www.udemy.com/mastering-server-side-swift-using-vapor-3/)
+
+### Documentation
+* [Kitura](https://www.kitura.io/learn.html)
+* [Perfect](https://www.perfect.org/documentation.html)
+* [SwiftNIO](https://apple.github.io/swift-nio/)
+* [Vapor](https://docs.vapor.codes/)
 
 ### Forums
 * [Swift Forums - Server](https://forums.swift.org/c/server) - Official Swift public forums
@@ -203,11 +216,13 @@
 * [Vapor Toolbox](https://github.com/vapor/toolbox) - Vapor command-line tool
 
 ### Videos
+* [Devslopes - Server Side Swift With Kitura](https://www.youtube.com/watch?v=0yAOMvpylXw)
 * [Martin Lasek’s YouTube Channel](https://www.youtube.com/channel/UCoLEXFUHIKXunm9QJjsAftw)
 * [Paul Hudson: Building a Vapor API with a matching iOS app](https://www.youtube.com/watch?v=pSgWwyj1gX4)
+* [ServerSide.swift Conference's YouTube Channel](https://www.youtube.com/channel/UCljCg3yUJnEFUkeyjUIg6AQ/featured) | [ServerSide.swift Conference](https://www.serversideswift.info/videos)
 * [Swift Heroes: Tim Condon - Getting started with Server-Side Swift and Vapor](https://www.youtube.com/watch?v=ReuJImJffI8)
-* [SwiftServerConf’s YouTube Channel](https://www.youtube.com/channel/UCljCg3yUJnEFUkeyjUIg6AQ/featured) | [ServerSide.swift](https://www.serversideswift.info/videos)
 * [try! Swift NYC: Swift NIO, Vapor, and Server Concurrency](https://www.youtube.com/watch?v=RW2vKWiGWr4)
+* [try! Swift Tokyo 2018 - Event driven networking for Swift - YouTube](https://www.youtube.com/watch?v=QJ3WG9kRLMo)
 
 ## Powered by Server Side Swift
 * [Canopy](https://medium.com/@mxcl/server-side-swift-making-canopy-2ed586b7f5a9) - Push notifications for GitHub activity.
