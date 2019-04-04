@@ -6,16 +6,6 @@
 ## Contents
 
 - [Frameworks](#frameworks)
-- [Packages](#packages)
-	- [Authentication](#authentication)
-	- [Cloud](#cloud)
-	- [Database](#database)
-	- [Logging](#logging)
-	- [Miscellaneous](#miscellaneous)
-	- [Monitoring](#monitoring)
-	- [Security](#security)
-	- [Templating](#templating)
-	- [WebSockets](#websockets)
 - [Resources](#resources)
 	- [Articles](#articles)
 	- [Blogs](#blogs)
@@ -31,6 +21,16 @@
 	- [Services](#services)
 	- [Tools](#tools)
 	- [Videos](#videos)
+- [Packages](#packages)
+	- [Authentication](#authentication)
+	- [Cloud](#cloud)
+	- [Database](#database)
+	- [Logging](#logging)
+	- [Miscellaneous](#miscellaneous)
+	- [Monitoring](#monitoring)
+	- [Security](#security)
+	- [Templating](#templating)
+	- [WebSockets](#websockets)
 - [Powered by Server Side Swift](#powered-by-server-side-swift)
 - [Related Lists](#related-lists)
 
@@ -41,6 +41,109 @@
 * [Smoke](https://github.com/amzn/smoke-framework) 
 * [SwiftNIO](https://github.com/apple/swift-nio)
 * [Vapor](https://vapor.codes/) ([vapor/vapor](https://github.com/vapor/vapor))
+
+## Resources
+
+### Articles
+* [A µTutorial on Swift NIO](http://www.alwaysrightinstitute.com/microexpress-nio/)
+* [Getting Started with SwiftNIO](https://medium.com/@fattywaffles/getting-started-with-swiftnio-40d35de15c0b)
+* [How to test controllers by mocking dependencies in Vapor 3 and Swift](https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/)
+* [Live Demo of Swift NIO In An Xcode Playground](https://david.okun.io/2018/08/02/live-demo-swift-nio/)
+* [Server-side Swift: Making Canopy](https://medium.com/@mxcl/server-side-swift-making-canopy-2ed586b7f5a9)
+* [SwiftNIO: A simple guide to async on the server](https://www.raywenderlich.com/1124580-swiftnio-a-simple-guide-to-async-on-the-server)
+* [TCP Server With the SwiftNIO Networking Framework](https://www.raywenderlich.com/76-tcp-server-with-the-swiftnio-networking-framework)
+* [Vapor Review – Swift Choice For the Back End](https://learningswift.brightdigit.com/vapor-swift-backend-review/)
+* [Vapor – Deep Dive into Setup and Deployment for Heroku and Ubuntu](https://learningswift.brightdigit.com/vapor-heroku-ubuntu-setup-deploy/)
+* [Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux](https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/)
+
+### Blogs
+* [IBM Swift Engineering Blog](https://developer.ibm.com/swift/blogs/)
+* [The Always Right Institute](http://www.alwaysrightinstitute.com)
+* [The Swift Web Developer](https://theswiftwebdeveloper.com/) - Web Development using Swift on the server
+* [Vaporforums](http://www.vaporforums.io) - Vapor articles and tutorials
+
+### Books
+* [Kitura Until Dawn](https://learnkitura.com/) 
+* [Server Side Swift with Kitura (raywenderlich.com)](https://store.raywenderlich.com/products/server-side-swift-with-kitura)
+* [Server Side Swift with Vapor (raywenderlich.com)](https://store.raywenderlich.com/products/server-side-swift-with-vapor)
+* [Server-Side Swift (Hacking with Swift)](https://www.hackingwithswift.com/store/server-side-swift)
+
+### Communities
+* [Kitura Slack](http://slack.kitura.io/)
+* [Perfect Slack](http://www.perfect.ly/)
+* [Vapor Discord](http://vapor.team/)
+
+### Conferences
+* [ServerSide.swift](https://www.serversideswift.info/) - Oct 30, 2019 - Nov 1, 2019 in Copenhagen, Denmark
+* [Swift Cloud Workshop](https://www.swiftcloudwork.shop) - May 9th, 2019 in McLean, VA
+
+### Courses
+* [Lynda - Learning Server-Side Swift Using IBM Kitura](https://www.lynda.com/Swift-tutorials/Learning-Server-Side-Swift-Using-IBM-Kitura/636122-2.html)
+* [objc.io - Server Side Swift](https://talk.objc.io/collections/server-side-swift)
+* [raywenderlich.com - Server Side Swift with Kitura](https://www.raywenderlich.com/3770-server-side-swift-with-kitura)
+* [raywenderlich.com - Server Side Swift with Perfect](https://www.raywenderlich.com/3989-server-side-swift-with-perfect)
+* [raywenderlich.com - Server Side Swift with Vapor](https://www.raywenderlich.com/870225-server-side-swift-with-vapor)
+* [Treehouse - Quickstart for an API using Vapor 3](https://teamtreehouse.com/library/quickstart-for-an-api-using-vapor-3)
+* [Udemy - Introduction to Server-Side Swift](https://www.udemy.com/introduction-to-server-side-swift/)
+* [Udemy - Mastering Server Side Swift Using Vapor 3](https://www.udemy.com/mastering-server-side-swift-using-vapor-3/)
+
+### Documentation
+* [Kitura](https://www.kitura.io/learn.html)
+* [Perfect](https://www.perfect.org/documentation.html)
+* [SwiftNIO](https://apple.github.io/swift-nio/)
+* [Vapor](https://docs.vapor.codes/)
+
+### Forums
+* [Swift Forums - Server](https://forums.swift.org/c/server) - Official Swift public forums
+
+### Jobs
+* [Server-Side Swift Work](https://www.serversideswift.work/) - Resource for finding jobs and Server Side Swift developers 
+
+### Meetups
+* [Bay Area Server Side Swift Meetup](https://www.meetup.com/Bay-Area-Server-Side-Swift-Meetup/) - San Francisco, CA
+* [Server Side Swift](https://www.meetup.com/Server-Side-Swift-Meetup/) - Newmarket, ON
+* [VaporBerlin](http://vapor.berlin/) - Berlin, Germany
+* [VaporLondon](https://www.meetup.com/VaporLondon/) - London, United Kingdom
+
+### Podcasts
+* [Fatal Error: Episode 33](https://fatalerror.fm/episodes/2017/7/10/33-server-side-swift-in-practice) - Server-Side Swift in Practice
+* [Fireside Swift: EP 62](https://www.firesideswift.com/episodes/2018/12/13/ep-62-its-a-thing) - IT’S A THING (Server-Side Swift) with David Okun!
+* [iOS Dev Discussions: Origin Stories #8](https://anchor.fm/seanallen/episodes/Origin-Stories-8---David-Okun---Kitura-e3d7ns) - David Okun (Kitura)
+* [iPhreaks: Episode 209](https://devchat.tv/iphreaks/ips-209-vapor-bob-synder/) - Vapor with Bob Snyder
+* [raywenderlich.com Podcast: S08 E05](https://www.raywenderlich.com/8542-server-side-swift-with-vapor-podcast-s08-e05) - Server Side Swift with Vapor
+* [raywenderlich.com Podcast: S08 E12](https://www.raywenderlich.com/1502207-kitura-podcast-s08-e12) - Kitura
+* [Software Engineering Daily](https://softwareengineeringdaily.com/2017/04/19/swift-on-the-server-with-chris-bailey/) - Swift on the Server with Chris Bailey
+* [Software Engineering Daily](https://softwareengineeringdaily.com/2017/04/19/swift-on-the-server-with-chris-bailey/) - Swift on the Server with Chris Bailey
+* [Swift by Sundell: Episode 18](https://www.swiftbysundell.com/podcast/18)- It’s like The Matrix, with Tanner Nelson
+* [SwiftCoders: Episode 31](https://swiftcoders.podbean.com/e/31-patrick-bohrer-technical-lead-for-swiftibm/) - Patrick Bohrer - Technical Lead of Swift@IBM
+* [SwiftCoders: Episode 42](https://swiftcoders.podbean.com/e/42-chris-bailey-server-side-swift-advocate/) - Chris Bailey, Server Side Swift Advocate
+* [SwiftCoders: Episode 68](https://swiftcoders.podbean.com/e/68-logan-wright-full-time-oss-developer-at-vapor/) - Logan Wright, Full Time OSS Developer at Vapor
+* [SwiftCraft](https://emanleet.com/vapor-server-side-swift-with-tim-condon/) - Vapor & Server Side Swift with Tim Condon
+* [The Learn Swift Podcast: Episode 20](https://learnswift.show/2018/01/09/20-david-okun-developer-advocate-ibm/) - David Okun – Developer Advocate @ IBM
+
+### Services
+* [IBM Cloud](https://www.ibm.com/cloud/swift)
+* [Vapor Cloud](https://vapor.cloud)
+* [Vapor Red](https://dashboard.vapor.red/)
+
+### Tools
+* [Ether](https://github.com/Ether-CLI/Ether) - A Command-Line Interface for the Swift Package Manager
+* [Kitura CLI](https://github.com/IBM-Swift/kitura-cli) - Kitura command-line tool
+* [Kitura macOS app](https://www.kitura.io/learn.html) - Kitura companion application
+* [KituraStudio](https://www.kitura.io/guides/kiturastudio/) - An IDE for Server-side Swift from [SCADE](https://www.scade.io/)
+* [Perfect Assistant](https://www.perfect.org/en/perfect-assistant.html) - Perfect companion application
+* [SourceKit-LSP](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
+* [SwiftXcode](https://swiftxcode.github.io) - Swift Package Manager from within Xcode
+* [Vapor Toolbox](https://github.com/vapor/toolbox) - Vapor command-line tool
+
+### Videos
+* [Devslopes - Server Side Swift With Kitura](https://www.youtube.com/watch?v=0yAOMvpylXw)
+* [Martin Lasek’s YouTube Channel](https://www.youtube.com/channel/UCoLEXFUHIKXunm9QJjsAftw)
+* [Paul Hudson: Building a Vapor API with a matching iOS app](https://www.youtube.com/watch?v=pSgWwyj1gX4)
+* [ServerSide.swift Conference's YouTube Channel](https://www.youtube.com/channel/UCljCg3yUJnEFUkeyjUIg6AQ/featured) | [ServerSide.swift Conference](https://www.serversideswift.info/videos)
+* [Swift Heroes: Tim Condon - Getting started with Server-Side Swift and Vapor](https://www.youtube.com/watch?v=ReuJImJffI8)
+* [try! Swift NYC: Swift NIO, Vapor, and Server Concurrency](https://www.youtube.com/watch?v=RW2vKWiGWr4)
+* [try! Swift Tokyo 2018 - Event driven networking for Swift - YouTube](https://www.youtube.com/watch?v=QJ3WG9kRLMo)
 
 ## Packages
 
@@ -124,105 +227,6 @@
 * [Perfect WebSockets](https://github.com/PerfectlySoft/Perfect-WebSockets)
 * [Vapor WebSockets](https://github.com/vapor/websocket)
 
-## Resources
-
-### Articles
-* [A µTutorial on Swift NIO](http://www.alwaysrightinstitute.com/microexpress-nio/)
-* [Getting Started with SwiftNIO](https://medium.com/@fattywaffles/getting-started-with-swiftnio-40d35de15c0b)
-* [How to test controllers by mocking dependencies in Vapor 3 and Swift](https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/)
-* [Live Demo of Swift NIO In An Xcode Playground](https://david.okun.io/2018/08/02/live-demo-swift-nio/)
-* [Server-side Swift: Making Canopy](https://medium.com/@mxcl/server-side-swift-making-canopy-2ed586b7f5a9)
-* [SwiftNIO: A simple guide to async on the server](https://www.raywenderlich.com/1124580-swiftnio-a-simple-guide-to-async-on-the-server)
-* [TCP Server With the SwiftNIO Networking Framework](https://www.raywenderlich.com/76-tcp-server-with-the-swiftnio-networking-framework)
-* [Vapor Review – Swift Choice For the Back End](https://learningswift.brightdigit.com/vapor-swift-backend-review/)
-* [Vapor – Deep Dive into Setup and Deployment for Heroku and Ubuntu](https://learningswift.brightdigit.com/vapor-heroku-ubuntu-setup-deploy/)
-* [Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux](https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/)
-
-### Blogs
-* [IBM Swift Engineering Blog](https://developer.ibm.com/swift/blogs/)
-* [The Always Right Institute](http://www.alwaysrightinstitute.com)
-* [The Swift Web Developer](https://theswiftwebdeveloper.com/) - Web Development using Swift on the server
-* [Vaporforums](http://www.vaporforums.io) - Vapor articles and tutorials
-
-### Books
-* [Kitura Until Dawn](https://learnkitura.com/) 
-* [Server Side Swift with Kitura (raywenderlich.com)](https://store.raywenderlich.com/products/server-side-swift-with-kitura)
-* [Server Side Swift with Vapor (raywenderlich.com)](https://store.raywenderlich.com/products/server-side-swift-with-vapor)
-* [Server-Side Swift (Hacking with Swift)](https://www.hackingwithswift.com/store/server-side-swift)
-
-### Communities
-* [Kitura Slack](http://slack.kitura.io/)
-* [Perfect Slack](http://www.perfect.ly/)
-* [Vapor Discord](http://vapor.team/)
-
-### Conferences
-* [ServerSide.swift](https://www.serversideswift.info/) - Oct 30, 2019 - Nov 1, 2019 in Copenhagen, Denmark
-* [Swift Cloud Workshop](https://www.swiftcloudwork.shop) - May 9th, 2019 in McLean, VA
-
-### Courses
-* [Lynda - Learning Server-Side Swift Using IBM Kitura](https://www.lynda.com/Swift-tutorials/Learning-Server-Side-Swift-Using-IBM-Kitura/636122-2.html)
-* [objc.io - Server Side Swift](https://talk.objc.io/collections/server-side-swift)
-* [raywenderlich.com - Server Side Swift with Kitura](https://www.raywenderlich.com/3770-server-side-swift-with-kitura)
-* [raywenderlich.com - Server Side Swift with Perfect](https://www.raywenderlich.com/3989-server-side-swift-with-perfect)
-* [raywenderlich.com - Server Side Swift with Vapor](https://www.raywenderlich.com/870225-server-side-swift-with-vapor)
-* [Treehouse - Quickstart for an API using Vapor 3](https://teamtreehouse.com/library/quickstart-for-an-api-using-vapor-3)
-* [Udemy - Introduction to Server-Side Swift](https://www.udemy.com/introduction-to-server-side-swift/)
-* [Udemy - Mastering Server Side Swift Using Vapor 3](https://www.udemy.com/mastering-server-side-swift-using-vapor-3/)
-
-### Documentation
-* [Kitura](https://www.kitura.io/learn.html)
-* [Perfect](https://www.perfect.org/documentation.html)
-* [SwiftNIO](https://apple.github.io/swift-nio/)
-* [Vapor](https://docs.vapor.codes/)
-
-### Forums
-* [Swift Forums - Server](https://forums.swift.org/c/server) - Official Swift public forums
-
-### Jobs
-* [Server-Side Swift Work](https://www.serversideswift.work/) - Resource for finding jobs and Server Side Swift developers 
-
-### Meetups
-* [Bay Area Server Side Swift Meetup](https://www.meetup.com/Bay-Area-Server-Side-Swift-Meetup/) - San Francisco, CA
-* [Server Side Swift](https://www.meetup.com/Server-Side-Swift-Meetup/) - Newmarket, ON
-* [VaporBerlin](http://vapor.berlin/) - Berlin, Germany
-* [VaporLondon](https://www.meetup.com/VaporLondon/) - London, United Kingdom
-
-### Podcasts
-* [Fatal Error: Episode 33](https://fatalerror.fm/episodes/2017/7/10/33-server-side-swift-in-practice) - Server-Side Swift in Practice
-* [Fireside Swift: EP 62](https://www.firesideswift.com/episodes/2018/12/13/ep-62-its-a-thing) - IT’S A THING (Server-Side Swift) with David Okun!
-* [iOS Dev Discussions: Origin Stories #8](https://anchor.fm/seanallen/episodes/Origin-Stories-8---David-Okun---Kitura-e3d7ns) - David Okun (Kitura)
-* [iPhreaks: Episode 209](https://devchat.tv/iphreaks/ips-209-vapor-bob-synder/) - Vapor with Bob Snyder
-* [raywenderlich.com Podcast: S08 E05](https://www.raywenderlich.com/8542-server-side-swift-with-vapor-podcast-s08-e05) - Server Side Swift with Vapor
-* [raywenderlich.com Podcast: S08 E12](https://www.raywenderlich.com/1502207-kitura-podcast-s08-e12) - Kitura
-* [Software Engineering Daily](https://softwareengineeringdaily.com/2017/04/19/swift-on-the-server-with-chris-bailey/) - Swift on the Server with Chris Bailey
-* [Swift by Sundell: Episode 18](https://www.swiftbysundell.com/podcast/18)- It’s like The Matrix, with Tanner Nelson
-* [SwiftCoders: Episode 42](https://swiftcoders.podbean.com/e/42-chris-bailey-server-side-swift-advocate/) - Chris Bailey, Server Side Swift Advocate
-* [SwiftCoders: Episode 68](https://swiftcoders.podbean.com/e/68-logan-wright-full-time-oss-developer-at-vapor/) - Logan Wright, Full Time OSS Developer at Vapor
-* [SwiftCraft](https://emanleet.com/vapor-server-side-swift-with-tim-condon/) - Vapor & Server Side Swift with Tim Condon
-
-### Services
-* [IBM Cloud](https://www.ibm.com/cloud/swift)
-* [Vapor Cloud](https://vapor.cloud)
-* [Vapor Red](https://dashboard.vapor.red/)
-
-### Tools
-* [Ether](https://github.com/Ether-CLI/Ether) - A Command-Line Interface for the Swift Package Manager
-* [Kitura CLI](https://github.com/IBM-Swift/kitura-cli) - Kitura command-line tool
-* [Kitura macOS app](https://www.kitura.io/learn.html) - Kitura companion application
-* [KituraStudio](https://www.kitura.io/guides/kiturastudio/) - An IDE for Server-side Swift from [SCADE](https://www.scade.io/)
-* [Perfect Assistant](https://www.perfect.org/en/perfect-assistant.html) - Perfect companion application
-* [SourceKit-LSP](https://github.com/apple/sourcekit-lsp) - Language Server Protocol implementation for Swift and C-based languages
-* [SwiftXcode](https://swiftxcode.github.io) - Swift Package Manager from within Xcode
-* [Vapor Toolbox](https://github.com/vapor/toolbox) - Vapor command-line tool
-
-### Videos
-* [Devslopes - Server Side Swift With Kitura](https://www.youtube.com/watch?v=0yAOMvpylXw)
-* [Martin Lasek’s YouTube Channel](https://www.youtube.com/channel/UCoLEXFUHIKXunm9QJjsAftw)
-* [Paul Hudson: Building a Vapor API with a matching iOS app](https://www.youtube.com/watch?v=pSgWwyj1gX4)
-* [ServerSide.swift Conference's YouTube Channel](https://www.youtube.com/channel/UCljCg3yUJnEFUkeyjUIg6AQ/featured) | [ServerSide.swift Conference](https://www.serversideswift.info/videos)
-* [Swift Heroes: Tim Condon - Getting started with Server-Side Swift and Vapor](https://www.youtube.com/watch?v=ReuJImJffI8)
-* [try! Swift NYC: Swift NIO, Vapor, and Server Concurrency](https://www.youtube.com/watch?v=RW2vKWiGWr4)
-* [try! Swift Tokyo 2018 - Event driven networking for Swift - YouTube](https://www.youtube.com/watch?v=QJ3WG9kRLMo)
 
 ## Powered by Server Side Swift
 * [Canopy](https://medium.com/@mxcl/server-side-swift-making-canopy-2ed586b7f5a9) - Push notifications for GitHub activity.
