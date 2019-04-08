@@ -114,7 +114,6 @@
 * [raywenderlich.com Podcast: S08 E12](https://www.raywenderlich.com/1502207-kitura-podcast-s08-e12) - Kitura
 * [Roundabout: Creative Chaos: Episode 127](https://roundaboutfm.com/episode-127-david-okun/) -  David Okun (The Kitura Guy)
 * [Software Engineering Daily](https://softwareengineeringdaily.com/2017/04/19/swift-on-the-server-with-chris-bailey/) - Swift on the Server with Chris Bailey
-* [Software Engineering Daily](https://softwareengineeringdaily.com/2017/04/19/swift-on-the-server-with-chris-bailey/) - Swift on the Server with Chris Bailey
 * [Swift by Sundell: Episode 18](https://www.swiftbysundell.com/podcast/18)- It’s like The Matrix, with Tanner Nelson
 * [SwiftCoders: Episode 31](https://swiftcoders.podbean.com/e/31-patrick-bohrer-technical-lead-for-swiftibm/) - Patrick Bohrer - Technical Lead of Swift@IBM
 * [SwiftCoders: Episode 42](https://swiftcoders.podbean.com/e/42-chris-bailey-server-side-swift-advocate/) - Chris Bailey, Server Side Swift Advocate
