@@ -236,6 +236,7 @@
 * [Point-Free](https://github.com/pointfreeco/pointfreeco) - A video series on Swift and functional programming
 * [ServerSideSwift.racing](http://www.serversideswift.racing/)
 * [Swift Talk (objc.io)](https://www.objc.io/blog/2019/02/12/open-sourcing-the-swift-talk-backend/) - Weekly Swift video series
+* [Timing Sync](https://timingapp.com/blog/introducing-timing-sync/) - Sync service for a time-tracking app, built with Vapor and SwiftGRPC
 
 ## Related Lists
 * [Awesome Vapor](https://github.com/Cellane/awesome-vapor) - A curated list of Vapor-related awesome projects
