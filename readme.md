@@ -199,6 +199,9 @@
 * [Perfect Logging](https://github.com/PerfectlySoft/Perfect-Logger) - File-based logging for Perfect
 * [swift-log](https://github.com/apple/swift-log) - A logging API package for Swift 5
 
+### Networking
+* [SwiftGRPC](https://github.com/grpc/grpc-swift) - [gRPC](https://grpc.io) for Swift
+
 ### Miscellaneous
 * [AddressManager](https://github.com/SwiftCommerce/AddressManager) - A Vapor micro-service to store address information
 * [Curly](https://github.com/vzsg/Curly) - cURL support for Vapor
