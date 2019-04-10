@@ -52,6 +52,7 @@
 * [Server-side Swift: Making Canopy](https://medium.com/@mxcl/server-side-swift-making-canopy-2ed586b7f5a9)
 * [SwiftNIO: A simple guide to async on the server](https://www.raywenderlich.com/1124580-swiftnio-a-simple-guide-to-async-on-the-server)
 * [TCP Server With the SwiftNIO Networking Framework](https://www.raywenderlich.com/76-tcp-server-with-the-swiftnio-networking-framework)
+* [Using the dependency injection framework for testing in Vapor 3 and Swift](https://mikemikina.com/blog/using-the-dependency-injection-framework-for-testing-in-vapor-3-and-swift/)
 * [Vapor Review – Swift Choice For the Back End](https://learningswift.brightdigit.com/vapor-swift-backend-review/)
 * [Vapor – Deep Dive into Setup and Deployment for Heroku and Ubuntu](https://learningswift.brightdigit.com/vapor-heroku-ubuntu-setup-deploy/)
 * [Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux](https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/)
