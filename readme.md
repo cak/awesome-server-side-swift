@@ -119,6 +119,7 @@
 * [SwiftCoders: Episode 31](https://swiftcoders.podbean.com/e/31-patrick-bohrer-technical-lead-for-swiftibm/) - Patrick Bohrer - Technical Lead of Swift@IBM
 * [SwiftCoders: Episode 42](https://swiftcoders.podbean.com/e/42-chris-bailey-server-side-swift-advocate/) - Chris Bailey, Server Side Swift Advocate
 * [SwiftCoders: Episode 68](https://swiftcoders.podbean.com/e/68-logan-wright-full-time-oss-developer-at-vapor/) - Logan Wright, Full Time OSS Developer at Vapor
+* [SwiftCraft](https://swiftcraft.io/kitura-with-david-okun/) - Kitura with David Okun
 * [SwiftCraft](https://emanleet.com/vapor-server-side-swift-with-tim-condon/) - Vapor & Server Side Swift with Tim Condon
 * [The Learn Swift Podcast: Episode 20](https://learnswift.show/2018/01/09/20-david-okun-developer-advocate-ibm/) - David Okun – Developer Advocate @ IBM
 
