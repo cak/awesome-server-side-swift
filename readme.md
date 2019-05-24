@@ -180,6 +180,7 @@
 
 #### PostgreSQL
 * [Perfect PostgreSQL](https://github.com/PerfectlySoft/Perfect-PostgreSQL)
+* [PostgresClientKit](https://github.com/codewinsdotcom/PostgresClientKit) - A PostgreSQL client library for Swift. Does not require libpq.
 * [Swift-Kuery-PostgreSQL](https://github.com/IBM-Swift/Swift-Kuery-PostgreSQL)
 * [Vapor PostgreSQL](https://github.com/vapor/postgresql)
 
